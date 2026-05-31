@@ -65,3 +65,15 @@ Reprezentuje zamówienie klienta.
 ## Testowanie
 
 Każda klasa będzie testowana oddzielnie podczas implementacji.
+
+## Status projektu
+
+Aktualnie zaimplementowano:
+- Product
+- ShoppingCart
+- Inventory
+
+W kolejnych etapach zostaną dodane:
+- Payment
+- Order
+- integracja wszystkich klas w głównym programie
