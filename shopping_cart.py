@@ -26,7 +26,7 @@ class ShoppingCart:
         return total
 
 
-# ---------- TEST KLASY ----------
+# TEST KLASY
 if __name__ == "__main__":
 
     tshirt = Product("T-Shirt", "Black", "M", 79.99, 10)
