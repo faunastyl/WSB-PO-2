@@ -22,7 +22,7 @@ class Inventory:
             print(f"Produkt {product.name} nie znajduje się w magazynie.")
 
 
-# ---------- TEST KLASY ----------
+# TEST KLASY
 if __name__ == "__main__":
 
     tshirt = Product("T-Shirt", "Black", "M", 79.99, 10)
