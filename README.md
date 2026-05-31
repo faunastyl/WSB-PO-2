@@ -72,8 +72,8 @@ Aktualnie zaimplementowano:
 - Product
 - ShoppingCart
 - Inventory
+- Payment
 
 W kolejnych etapach zostaną dodane:
-- Payment
 - Order
 - integracja wszystkich klas w głównym programie
