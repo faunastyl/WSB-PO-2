@@ -1,4 +1,5 @@
-8. Sklep internetowy z odzieżą – klasy Product, ShoppingCart, Order, Inventory; zarządzanie stanem magazynowym i realizacja koszyka.
+ZADANIE 2 Bożena Czempas-Chowaniec
+Nr 8. Sklep internetowy z odzieżą – klasy Product, ShoppingCart, Order, Inventory; zarządzanie stanem magazynowym i realizacja koszyka.
 
 ## Opis projektu
 
