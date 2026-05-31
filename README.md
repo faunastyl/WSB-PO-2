@@ -68,12 +68,25 @@ Każda klasa będzie testowana oddzielnie podczas implementacji.
 
 ## Status projektu
 
-Aktualnie zaimplementowano:
+Zaimplementowane klasy:
+
 - Product
 - ShoppingCart
 - Inventory
 - Payment
-
-W kolejnych etapach zostaną dodane:
 - Order
-- integracja wszystkich klas w głównym programie
+
+Program główny:
+
+- sklep.py
+
+#Przykładowy scenariusz działania
+
+1. Produkty są dodawane do magazynu.
+2. Klient dodaje produkty do koszyka.
+3. Obliczana jest wartość koszyka.
+4. Klient wybiera metodę płatności.
+5. Tworzone jest zamówienie.
+6. Zamówienie zostaje zrealizowane.
+
+#### Autor: Bożena Czempas-Chowaniec
