@@ -10,7 +10,7 @@ class Order:
     def place_order(self):
         total = self.cart.calculate_total()
 
-        print("=== ZAMÓWIENIE ===")
+        print("ZAMÓWIENIE")
         print(f"Wartość zamówienia: {total:.2f} zł")
 
         self.payment.process_payment(total)
