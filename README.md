@@ -21,7 +21,13 @@ Użytkownik może przeglądać produkty, dodawać je do koszyka, wybierać iloś
 Diagram klas znajduje się w folderze `UML`.
 
 ## Klasy projektu
-
+- product.py – klasa Product
+- shopping_cart.py – klasa ShoppingCart
+- inventory.py – klasa Inventory
+- payment.py – klasa Payment
+- order.py – klasa Order
+- sklep.py – program główny
+  
 ### Product
 Reprezentuje produkt dostępny w sklepie.
 
